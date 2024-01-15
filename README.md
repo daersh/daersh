@@ -9,12 +9,10 @@ Daersh [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3
 
 projects
 --
-#### 1. DKUNIVERSE
-학교를 바탕으로 구현한 메타버스이다.
+#### 1. DKUNIVERSE (학교를 바탕으로 구현한 메타버스)
 맵을 탐방하면서 다른 사용자들과 소통을 할 수 있고, 미니 게임들을 즐길 수 있다. 
 
+#### 2. N times (로그라이크 게임)
 
-#### 2. N times
 
-
-#### 3. DKUNIVERSE
+#### 3.

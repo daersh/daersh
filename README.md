@@ -3,12 +3,13 @@ Daersh [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=daersh)](https://solved.ac/daersh)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=daersh&theme=warm)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daersh)](https://github.com/daersh/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daersh&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)﻿
 
 <br><br>
 Language
 --
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" /> <img src="https://img.shields.io/badge/Unity-512BD4?style=flat&logo=Unity&logoColor=white" /> <img src="https://img.shields.io/badge/Csharp-512BD4?style=flat&logo=Csharp&logoColor=white" /> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daersh&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)﻿
 
 <br><br>
 

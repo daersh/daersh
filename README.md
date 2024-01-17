@@ -15,7 +15,7 @@ DAERSH   <img height = 20 src="https://hits.seeyoufarm.com/api/count/incr/badge.
 
 🍏 Language
 --
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" /> <img src="https://img.shields.io/badge/C++-F24C53?style=flat&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" /> <img src="https://img.shields.io/badge/Unity-512BD4?style=flat&logo=Unity&logoColor=white" /> <img src="https://img.shields.io/badge/Csharp-EF5C55?style=flat&logo=Csharp&logoColor=white" /> <img src="https://img.shields.io/badge/Unity-F09820?style=flat&logo=Unity&logoColor=white" /> <img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white" /> 
+<img height= 30 src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" /> <img height= 30 src="https://img.shields.io/badge/C++-F24C53?style=flat&logo=cplusplus&logoColor=white" /> <img height= 30 src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" /> <img height= 30 src="https://img.shields.io/badge/Unity-512BD4?style=flat&logo=Unity&logoColor=white" /> <img height= 30 src="https://img.shields.io/badge/Csharp-EF5C55?style=flat&logo=Csharp&logoColor=white" /> <img height= 30 src="https://img.shields.io/badge/Unity-F09820?style=flat&logo=Unity&logoColor=white" /> <img height= 30 src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white" /> 
 <br>
 
 <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=daersh&langs_count=10&layout=compact&theme=dark" />

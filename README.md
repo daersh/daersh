@@ -3,11 +3,6 @@
  
 # 🍎 #include <DAERSH.h>
 </div>
- 
-<br>
-
-🍎 소개
---
 <div align="center">
  안녕하세요. 백엔드 개발자 이현우입니다.
 </div>

@@ -23,7 +23,7 @@
 </div>
 <br>
 <div align="center">
-<img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=daersh&langs_count=10&layout=compact&&hide=js&theme=dark" />
+<img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=daersh&langs_count=10&layout=compact&&hide=javascript,html&theme=dark" />
 </div>
 <br>
   

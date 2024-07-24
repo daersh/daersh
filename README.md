@@ -7,6 +7,7 @@
  안녕하세요. 백엔드 개발자 이현우입니다.
 </div>
 <div align="center">
+ 개인 페이지
  https://daersh.netlify.app
 </div>
 <br>

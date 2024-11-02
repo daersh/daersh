@@ -12,6 +12,11 @@
  https://daersh.netlify.app
 </div>
 <br>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/daersh?pet-id=1" width="1000" height="120"/>
+</a>
+
+
 <div align="center">
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=daersh)](https://solved.ac/daersh) <img height=170 src="https://github-readme-stats.vercel.app/api?username=daersh" /> [![GitHub Streak](https://streak-stats.demolab.com?user=daersh&theme=dark&hide_border=true&locale=ko&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)

@@ -13,7 +13,7 @@
 </div>
 <br>
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/daersh?pet-id=1" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/farms/daersh"/>
 </a>
 
 

@@ -8,6 +8,8 @@
 <div align="center">
  개인 페이지
 <br>
+ https://mine-find-game-latest.onrender.com
+ 
 </div>
 
 <br>
